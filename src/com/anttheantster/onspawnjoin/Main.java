@@ -20,12 +20,6 @@ public class Main extends JavaPlugin implements Listener {
     @Override
     public void onEnable(){
 
-        //Check if my core dependency is not null
-        //if (pm.getPlugin("AntsPluginsCore") == null){
-        //    getLogger().warning(OSJ.getName() + " requires AntsPluginsCore to work, please find this on AntTheAntster's Spigot page.");
-        //    pm.disablePlugin(this);
-        //}
-
         getLogger().info(OSJ.getName() + " has been Enabled! AntTheAntster 2020. All Rights Reserved.");
 
         pm.registerEvents(this, this);
