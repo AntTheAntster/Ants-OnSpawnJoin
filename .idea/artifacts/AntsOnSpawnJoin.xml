@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntsOnSpawnJoin">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntsOnSpawnJoin</output-path>
+    <root id="archive" name="AntsOnSpawnJoin.jar">
+      <element id="module-output" name="AntsOnSpawnJoin" />
+    </root>
+  </artifact>
+</component>

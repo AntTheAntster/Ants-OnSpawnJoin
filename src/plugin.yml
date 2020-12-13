@@ -1,0 +1,5 @@
+main: com.anttheantster.onspawnjoin.Main
+name: OnSpawnJoin
+author: AntTheAntster
+version: 1.0
+description: Auto Teleports players to global spawnpoint when they join.
